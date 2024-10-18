@@ -1,4 +1,3 @@
-// secureotp/otpGenerator.js
 class OTPGenerator {
     constructor() {
         this.otpStore = {};

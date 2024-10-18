@@ -1,25 +1,35 @@
 {
-  "name": "secureotp",
+  "name": "accessotp",
   "version": "1.0.0",
-  "description": "This is a secure otp generator and validator",
+  "description": "accessotp is a robust and secure package designed for OTP (One-Time Password) generation and validation. It provides developers with an efficient way to implement authentication or verification mechanisms using OTPs, without relying on third-party modules. The package supports various OTP configurations, including the option to generate numeric or alphanumeric OTPs, define expiration time, and securely validate user inputs. Built for scalability, accessotp ensures the handling of multiple user requests concurrently, making it ideal for use in high-security environments such as banking or enterprise applications.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krishnatadi/secureotp.git"
+    "url": "git+https://github.com/krishnatadi/accessotp.git"
   },
   "keywords": [
     "otp",
-    "one time password",
+    "one-time password",
     "otp generator",
-    "otp validator"
+    "otp validation",
+    "authentication",
+    "verification",
+    "security",
+    "nodejs",
+    "secure otp",
+    "high security",
+    "banking",
+    "crypto",
+    "password-generator",
+    "passwordgenerator"
   ],
   "author": "krishna tadi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/krishnatadi/secureotp/issues"
+    "url": "https://github.com/krishnatadi/accessotp/issues"
   },
-  "homepage": "https://github.com/krishnatadi/secureotp#readme"
+  "homepage": "https://github.com/krishnatadi/accessotp#readme"
 }

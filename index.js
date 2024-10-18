@@ -1,4 +1,3 @@
-// secureotp/index.js
 const OTPGenerator = require('./otphandlers/otpgenerator');
 const OTPValidator = require('./otphandlers/otpvalidator');
 

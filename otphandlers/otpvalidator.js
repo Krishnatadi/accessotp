@@ -1,4 +1,3 @@
-// secureotp/otpValidator.js
 class OTPValidator {
     constructor(otpStore) {
         this.otpStore = otpStore;
